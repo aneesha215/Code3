@@ -1,0 +1,33 @@
+
+e
+java:S2583G"CChange this condition so that it does not always evaluate to "true"(ÎşßÉûÿÿÿÿ8¨â‡¿¨0
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8¼”ò¿¨0
+j
+java:S1128"NRemove this unused import 'org.apache.tomcat.util.http.fileupload.FileUpload'.(œ‘ÂP8Ä´§ë§0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(®’ÑÆùÿÿÿÿ8ÜÛÎÂ¨0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ŸÊÙ²8¬õ½¨0
+u
+java:S3008$"XRename this field "UPLOAD_FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×İ¬õ8ç»Ãë§0
+k
+java:S2095N"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¡Ö˜®8°å¿¨0
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¯××ò8‰±ÍÀ¨0
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(„ª´úÿÿÿÿ8ÿæÙ¿¨0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(¡×æ×øÿÿÿÿ8íºÏÂ¨0
+€
+java:S1488g"^Immediately return this expression instead of assigning it to the temporary variable "result".(ı”°Äùÿÿÿÿ8ÿæÙ¿¨0
+i
+java:S1128"MRemove this unused import 'org.apache.tomcat.util.http.fileupload.FileUtils'.(Š¶¯K8ø€¿¨0
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8’Õò¿¨0
+T	java:S106W"9Replace this use of System.out or System.err by a logger.(¡Ğ>8ÿæÙ¿¨0
+T	java:S106s"9Replace this use of System.out or System.err by a logger.(ùø¼8ÿæÙ¿¨0
+N
+java:S1068$"1Remove this unused "UPLOAD_FOLDER" private field.(×İ¬õ8ÜäÂ¿¨0
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(Â‘Œšÿÿÿÿÿ8ÿæÙ¿¨0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8öœ¦¿¨0
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¹§©8ÿæÙ¿¨0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(‘€ìòøÿÿÿÿ8˜´Ü¿¨0
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8’Õò¿¨0
